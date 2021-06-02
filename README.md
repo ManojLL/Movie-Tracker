@@ -1,4 +1,5 @@
-Movie-Tracker
+###Movie-Tracker
+
 This was a Native Android Mobile Application which was developed as a Movie Tracker in IIT-L5-SEM2.
 
 Movie Tracker has following features :
