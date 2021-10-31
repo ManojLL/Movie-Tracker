@@ -1,14 +1,14 @@
-/**this class is for display all movies*/
+/**
+ * this class is for display all movies
+ */
 package com.example.movietracker;
-
-import androidx.appcompat.app.AppCompatActivity;
 
 import android.database.Cursor;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ListView;
 import android.widget.Toast;
-
+import androidx.appcompat.app.AppCompatActivity;
 import com.example.movietracker.adapter.DisplayMoviesAdapter;
 import com.example.movietracker.db.MovieDB;
 
